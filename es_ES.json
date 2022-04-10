@@ -2,7 +2,7 @@
     "name": "Español",
     "localeCode": "es_ES",
     "emoji": "español",
-    "prefix": "§1P§2R§3E§4F§5I§6X§r ",
+    "prefix": "§3Battle§bOase §8× §7 ",
     "contributors": ["ceepkev77"],
     "values": {
         "languageSystem.change": "{PREFIX}&a¡Tu idioma ha sido cambiado con éxito!"
