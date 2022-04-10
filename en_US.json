@@ -2,9 +2,9 @@
     "name": "English",
     "localeCode": "en_US",
     "emoji": "🇺🇸",
-    "prefix": "§cWappla ",
+    "prefix": "§3Battle§bOase §8× §7",
     "contributors": ["ceepkev77"],
     "values": {
-        "languageSystem.change": "{PREFIX}&aDei Fotze wurd gfickt!!"
+        "languageSystem.change": "{PREFIX}&aYour &6Language &7was Changed to {langcode}!"
     }
 }
