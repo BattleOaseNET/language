@@ -5,6 +5,6 @@
     "prefix": "§1P§2R§3E§4F§5I§6X§r",
     "contributors": ["ceepkev77"],
     "values": {
-        "languageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!",
+        "languageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!"
     }
 }
