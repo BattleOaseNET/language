@@ -2,7 +2,7 @@
     "name": "Deutsch",
     "localeCode": "de_DE",
     "emoji": "🇩🇪",
-    "prefix": "§cWappla ",
+    "prefix": "§3Battle§bOase §8× §7",
     "contributors": ["ceepkev77"],
     "values": {
         "languageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!"
