@@ -10,6 +10,6 @@
         "lobbySystem.canBuild": "{PREFIX}&aDu kannst nun Bauen!",
         "lobbySystem.cantBuild": "{PREFIX}&cDu kannst nun nicht mehr Bauen!",
         "lobbySystem.noPerms": "{PREFIX}&4Du hast keine Rechte!",
-        "test": "{PREFIX}Hallo {0} dein Displayname ist {1}"
+        "test": "{PREFIX}&aHallo &7{0}&c dein Displayname ist&6 {1}"
     }
 }
