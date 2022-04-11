@@ -5,6 +5,7 @@
     "prefix": "§3Battle§bOase §8× §7 ",
     "contributors": ["ceepkev77"],
     "values": {
-        "languageSystem.change": "{PREFIX}&a¡Tu idioma ha sido cambiado con éxito!"
+        "languageSystem.change": "{PREFIX}&a¡Tu idioma ha sido cambiado con éxito!",
+        "lobbySystem.teleporter.spawnItem": "&8>> &6Aparecer"
     }
 }
