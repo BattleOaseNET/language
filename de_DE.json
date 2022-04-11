@@ -7,6 +7,9 @@
     "values": {
         "languageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!",
         "coinSystem.owncoins": "{PREFIX}&7Du hast &c{0} &6Coins &7auf deinem Konto!",
-        "test": "Hallo {0} dein Displayname ist {1}"
+        "lobbySystem.canBuild": "{PREFIX}&aDu kannst nun Bauen!",
+        "lobbySystem.cantBuild": "{PREFIX}&cDu kannst nun nicht mehr Bauen!",
+        "lobbySystem.noPerms": "{PREFIX}&4Du hast keine Rechte!",
+        "test": "{PREFIX}Hallo {0} dein Displayname ist {1}"
     }
 }
