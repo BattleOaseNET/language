@@ -6,6 +6,7 @@
     "contributors": ["ceepkev77"],
     "values": {
         "languageSystem.change": "{PREFIX}&aYour &6Language &7was Changed to &cEnglish&7!",
-        "coinSystem.owncoins": "{PREFIX}&7You have &c{0} &6Coins &7on your Account!"
+        "coinSystem.owncoins": "{PREFIX}&7You have &c{0} &6Coins &7on your Account!",
+        "lobbySystem.teleporter.spawnItem": "&8>> &7Who Rain Sun"
     }
 }
