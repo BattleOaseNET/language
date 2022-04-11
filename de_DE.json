@@ -12,7 +12,7 @@
         "lobbySystem.getHelp": "{PREFIX}&cBenutze &8/&6hilfe &cfür mehr Hilfe &4{1}",
         "lobbySystem.noPerms": "{PREFIX}&4Du hast keine Rechte!",
         "lobbySystem.getAuthors": "{PREFIX}",
-        "test": "{PREFIX}&aHallo &7{0}&c dein Displayname ist&6 {1}",
+        "test": "{PREFIX}&aHallo &7{0}&c dein &6Displayname &cist&3 {1}",
         "pluginMessage": "Plugins (3): §aPartySystem§f, §aLobbySystem§f, §aFriendsSystem"
     }
 }
