@@ -6,6 +6,7 @@
     "contributors": ["ceepkev77"],
     "values": {
         "languageSystem.change": "{PREFIX}&aDeine Sprache wurde geändert!",
-        "coinSystem.owncoins": "{PREFIX}&7Du hast &c{0} &6Coins &7auf deinem Konto!"
+        "coinSystem.owncoins": "{PREFIX}&7Du hast &c{0} &6Coins &7auf deinem Konto!",
+        "test": "Hallo {0} dein Displayname ist {1}"
     }
 }
