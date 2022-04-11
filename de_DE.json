@@ -11,6 +11,8 @@
         "lobbySystem.cantBuild": "{PREFIX}&cDu kannst nun nicht mehr Bauen!",
         "lobbySystem.getHelp": "{PREFIX}&cBenutze &8/&6hilfe &cfür mehr Hilfe &4{1}",
         "lobbySystem.noPerms": "{PREFIX}&4Du hast keine Rechte!",
-        "test": "{PREFIX}&aHallo &7{0}&c dein Displayname ist&6 {1}"
+        "lobbySystem.getAuthors": "{PREFIX}",
+        "test": "{PREFIX}&aHallo &7{0}&c dein Displayname ist&6 {1}",
+        "pluginMessage": "Plugins (3): §aPartySystem§f, §aLobbySystem§f, §aFriendsSystem"
     }
 }
