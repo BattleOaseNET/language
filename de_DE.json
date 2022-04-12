@@ -12,6 +12,7 @@
         "lobbySystem.getHelp": "{PREFIX}&cBenutze &8/&6hilfe &cfür mehr Hilfe!",
         "lobbySystem.noPerms": "{PREFIX}&4Du hast keine Rechte!",
         "lobbySystem.teleporter.spawnItem": "&8» &6Spawn",
+        "lobbySystem.items.teleporter": "&8» &3Navigator",
         "test": "{PREFIX}&aHallo &7{0}&c dein &6Displayname &cist&3 {1}",
         "pluginMessage": "Plugins (3): §aPartySystem§f, §aLobbySystem§f, §aFriendsSystem"
     }
