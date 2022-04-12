@@ -20,7 +20,7 @@
         "lobbySystem.invs.language.germanLore": "&8» &7Wähle die Sprache aus!",
         "lobbySystem.invs.language.englishLore": "&8» &7Wähle die Sprache aus!",
         "lobbySystem.invs.language.espaniaLore": "&8» &7Wähle die Sprache aus!",
-        "lobbySystem.invs.language.espaniaChoosed": "",
+        "lobbySystem.invs.language.espaniaChoosed": "&7Nix",
         "test": "{PREFIX}&aHallo &7{0}&c dein &6Displayname &cist&3 {1}",
         "pluginMessage": "Plugins (3): §aPartySystem§f, §aLobbySystem§f, §aFriendsSystem"
     }
