@@ -13,6 +13,7 @@
         "lobbySystem.noPerms": "{PREFIX}&4Du hast keine Rechte!",
         "lobbySystem.teleporter.spawnItem": "&8» &6Spawn",
         "lobbySystem.items.teleporter": "&8» &3Navigator",
+        "lobbySystem.items.lobbySwitcher": "&8» &3Lobbywechsler",
         "lobbySystem.invs.language.title": "&8» &bSprache",
         "lobbySystem.invs.language.germanItem": "&8» &6Deutsch",
         "lobbySystem.invs.language.englishItem": "&8» &6Englisch",
